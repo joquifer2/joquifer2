@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Soy Jordi Quiroga</h1>
-<h3 align="center">Digital Analyst | Data Analyst | Data Scientist in Proyect</h3>
+<h3 align="center">Digital Analyst | Data Analyst | Data Scientist in Project</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
