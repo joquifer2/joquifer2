@@ -4,10 +4,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Llevo más de 15 años ayudando a empresas y agencias a tomar decisiones informadas y maximizar el retorno de inversiones en medios pagados. Aunque mi trayectoria comenzó como Media Buyer, gestionando más de 10 millones en campañas publicitarias en Google Ads y Meta Ads, con el tiempo he ampliado mi enfoque hacia la integración de fuentes de datos, análisis y reporting.
+Llevo más de 15 años ayudando a empresas y agencias a tomar decisiones informadas y maximizar el retorno de inversiones en medios pagados. 
+
+Aunque mi trayectoria comenzó como Media Buyer, gestionando más de 10 millones en campañas publicitarias en Google Ads y Meta Ads, con el tiempo he ampliado mi enfoque hacia la integración de fuentes de datos, análisis y reporting.
 
 ### 🚀 Qué hago hoy
-Actualmente, me dedico a construir sistemas de integración de fuentes de datos que permiten unificar información de diversas plataformas, tanto internas como externas, para ofrecer una visión clara y en tiempo real del rendimiento de las campañas y embudos de ventas. Utilizo herramientas como **BigQuery** y **Looker Studio** dentro del ecosistema de **Google Cloud** para consolidar datos y generar informes personalizados que ayudan a los equipos de marketing y ventas a tomar decisiones estratégicas con mayor rapidez y precisión. También utilizo **Python** para automatizar procesos de análisis y reporting, asegurando eficiencia y minimizando errores.
+Actualmente, me dedico a construir sistemas de integración de fuentes de datos que permiten unificar información de diversas plataformas, tanto internas como externas, para ofrecer una visión clara y en tiempo real del rendimiento de las campañas y embudos de ventas. Utilizo herramientas como **BigQuery** y **Looker Studio** dentro del ecosistema de **Google Cloud** para consolidar datos y generar informes personalizados que ayudan a los equipos de marketing y ventas a tomar decisiones estratégicas con mayor rapidez y precisión. 
+
+También utilizo **Python** para automatizar procesos de análisis y reporting, asegurando eficiencia y minimizando errores.
 
 ### 🌍 Experiencia y sectores
 He trabajado en sectores como la formación, salud, cirugía estética, hostelería, alimentación, y ecommerce, lo que me ha dado una comprensión profunda de los retos que enfrentan las empresas en estos mercados.
