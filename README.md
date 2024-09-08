@@ -1,7 +1,4 @@
 
-<h1 align="center"> 👋 Mi nombre es Jordi Quiroga</h1>
-<h3 align="center"> Media Buyer | Data Analyst | Data Scientist</h3>
-
 ## 👨‍💻 Sobre mí
 
 Llevo más de 15 años ayudando a empresas y agencias a tomar decisiones informadas y maximizar el retorno de inversiones en medios pagados. 
