@@ -1,16 +1,23 @@
 
 ## 👨‍💻 Sobre mí
 
-Llevo más de 15 años ayudando a empresas y agencias a tomar decisiones informadas y maximizar el retorno de inversiones en medios pagados. 
+Soy Jordi Quiroga, consultor, analista de datos y emprendedor
 
-Aunque mi trayectoria comenzó como Media Buyer, gestionando más de 10 millones en campañas publicitarias en Google Ads y Meta Ads, con el tiempo he ampliado mi enfoque hacia la integración de fuentes de datos, análisis y reporting.
+Llevo quince años dedicado a la publicidad digital y al análisis de datos y siempre he considerado que la estrategia de negocio debe estar en el centro de cualquier operación. Para ello es fundamental contar con algo tan esencial como información actualizada y de calidad.
 
 ## 🚀 Qué hago hoy
-Actualmente, me dedico a construir sistemas de integración de fuentes de datos que permiten unificar información de diversas plataformas, tanto internas como externas, para ofrecer una visión clara y en tiempo real del rendimiento de las campañas y embudos de ventas. Utilizo herramientas como **BigQuery** y **Looker Studio** dentro del ecosistema de **Google Cloud** para consolidar datos y generar informes personalizados que ayudan a los equipos de marketing y ventas a tomar decisiones estratégicas con mayor rapidez y precisión. 
 
-También utilizo **Python** para automatizar procesos de análisis y reporting, asegurando eficiencia y minimizando errores.
+Creo que los datos no deberían ser un obstáculo, sino una herramienta para crecer y avanzar con seguridad.
+
+En un mundo donde la información está fragmentada y en constante cambio, trabajo para **simplificar procesos, integrar fuentes y visualizar resultados de manera clara y accionable**. Mi objetivo es transformar los datos en una ventaja competitiva que impulse el crecimiento y la innovación.
+
+Me impulsa el deseo de **empoderar a negocios digitales, agencias y profesionales para que tomen el control de sus datos, confíen en sus decisiones y lideren con visión estratégica en un entorno digital que no deja de evolucionar**.
+
+Porque cuando los datos están ordenados y accesibles, las estrategias se fortalecen, las decisiones se agilizan y las oportunidades de éxito se multiplican.
+
 
 ## 🌍 Experiencia y sectores
+
 He trabajado en sectores como la formación, salud, cirugía estética, hostelería, alimentación, y ecommerce, lo que me ha dado una comprensión profunda de los retos que enfrentan las empresas en estos mercados.
 
 ## 🛠️ Habilidades y Especialidades
