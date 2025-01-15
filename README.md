@@ -24,7 +24,7 @@ He trabajado en sectores como la formación, tecnología, salud, cirugía estét
 
 - 🔗 **Integración de fuentes de datos, consolidación, análisis, y visualización de datos** en el entorno de Google Cloud (BigQuery, Looker Studio)
 - ⚙️ **Automatización de procesos y reporting** 
-- 💼 **Gestión de campañas publicitarias** en Google Ads y Meta Ads
+- 💼 **Gestión y optimización de campañas publicitarias** en Google Ads y Meta Ads
 - 📈 **Optimización de embudos de conversión** y análisis de rendimiento
 - 🗄️ **Bases de datos** SQL y NoSQL
 - 🤝 **Colaboración** con media buyers, agencias y equipos de marketing
