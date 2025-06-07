@@ -32,7 +32,7 @@ He trabajado en sectores como la formación, tecnología, salud, cirugía estét
 
 ## 📩 Contacto
 
-Si necesitas integrar múltiples fuentes de datos, optimizar tus campañas o implementar sistemas avanzados de reporting y análisis, estaré encantado de poner mi experiencia a tu disposición para ayudarte a alcanzar tus objetivos.
+Si necesitas integrar múltiples fuentes de datos, optimizar tus campañas o implementar sistemas inteligentes de reporting y análisis, estaré encantado de poner mi experiencia a tu disposición para ayudarte a alcanzar tus objetivos.
 
 
 
